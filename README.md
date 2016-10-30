@@ -1,9 +1,14 @@
 # DES KELOMPOK 2
 Lantang Satriatama
+
 15/378066/PA/16541
+
 DES implementation with c++
+
 Kontribusi:
+
 1. Debug kode yang masih salah
+
 2. Ikut presentasi
 
 initTable() : Memasukan nilai - nilai indeks permutasi ke dalam array-array dan memasukkan nilai jumlah left shift sesuai left shift schedule ke dalam array. Indeks permutasi dan jumlah left shift mengacu pada standar Algoritma DES, dan berada pada file bernama file.in
